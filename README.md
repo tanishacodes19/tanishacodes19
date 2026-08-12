@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=egg&height=200&text=Tanisha%20Agarwal&fontSize=70&color=0:1f1f1f,100:3a3a3a&fontColor=e5e5e5&animation=fadeIn" width="100%"/>
+<img src="assets/banner.svg" width="100%"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&pause=1000&color=9CA3AF&center=true&vCenter=true&width=620&lines=CS+undergrad+%40+SNU+Kolkata;Backend+Developer+%2B+AI+Enthusiast;Building+AI+projects+that+actually+ship;Learning%2C+breaking+things%2C+fixing+them" alt="Typing SVG" />
