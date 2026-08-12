@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Tanisha%20Agarwal&fontSize=70&color=0:0d0d0d,100:1c1c24&fontColor=c9d1d9&stroke=8b949e&strokeWidth=1&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=200&text=Tanisha%20Agarwal&fontSize=70&color=0:0d0d0d,100:2b1330&fontColor=c9d1d9&stroke=8b949e&strokeWidth=1&animation=fadeIn" width="100%"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&pause=1000&color=8b949e&center=true&vCenter=true&width=620&lines=CS+undergrad+%40+SNU+Kolkata;Backend+Developer+%2B+AI+Enthusiast;Building+AI+projects+that+actually+ship;Learning%2C+breaking+things%2C+fixing+them" alt="Typing SVG" />
@@ -40,11 +40,11 @@ fun_fact  : "My code compiles on the first try about as often as I win the lotte
 ### Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=tanishacodes19&show_icons=true&count_private=true&include_all_commits=true&hide=stars&hide_border=true&bg_color=00000000&title_color=6c63ff&icon_color=6c63ff&text_color=c9d1d9&custom_title=Tanisha's+Stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishacodes19&layout=compact&hide_border=true&bg_color=00000000&title_color=6c63ff&text_color=c9d1d9&custom_title=Languages"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=tanishacodes19&show_icons=true&count_private=true&include_all_commits=true&hide=stars&hide_border=true&bg_color=00000000&title_color=a35bff&icon_color=a35bff&text_color=c9d1d9&custom_title=Tanisha's+Stats"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishacodes19&layout=compact&hide_border=true&bg_color=00000000&title_color=a35bff&text_color=c9d1d9&custom_title=Languages"/>
 </p>
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=tanishacodes19&hide_border=true&background=00000000&ring=6c63ff&fire=6c63ff&currStreakLabel=6c63ff&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&stroke=0000&currStreakNum=c9d1d9"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=tanishacodes19&hide_border=true&background=00000000&ring=a35bff&fire=a35bff&currStreakLabel=a35bff&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&stroke=0000&currStreakNum=c9d1d9"/>
 </p>
 
 ---
@@ -53,7 +53,7 @@ fun_fact  : "My code compiles on the first try about as often as I win the lotte
 
 <p align="center">
   <a href="https://github.com/tanishacodes19/anchor_backend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanishacodes19&repo=anchor_backend&hide_border=false&border_color=6c63ff&bg_color=00000000&title_color=6c63ff&text_color=8b949e&icon_color=6c63ff&border_radius=10"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanishacodes19&repo=anchor_backend&hide_border=false&border_color=a35bff&bg_color=00000000&title_color=a35bff&text_color=8b949e&icon_color=a35bff&border_radius=10"/>
   </a>
 </p>
 
@@ -64,5 +64,5 @@ fun_fact  : "My code compiles on the first try about as often as I win the lotte
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1c1c24&height=80&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0d0d0d,100:2b1330&height=80&section=footer"/>
 </p>
