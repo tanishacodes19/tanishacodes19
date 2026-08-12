@@ -1,68 +1,66 @@
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=200&text=Tanisha%20Agarwal&fontSize=70&color=0:0d0d0d,100:2b1330&fontColor=c9d1d9&stroke=8b949e&strokeWidth=1&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Hi,%20I'm%20Tanisha&fontSize=50&color=0:0a0a0a,100:2e2e2e&fontColor=e5e5e5&animation=fadeIn&fontAlignY=40" width="100%"/>
+
+<h3 align="center">Backend Developer · AI Enthusiast · CS Undergrad</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&pause=1000&color=8b949e&center=true&vCenter=true&width=620&lines=CS+undergrad+%40+SNU+Kolkata;Backend+Developer+%2B+AI+Enthusiast;Building+AI+projects+that+actually+ship;Learning%2C+breaking+things%2C+fixing+them" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=16&pause=1200&color=9CA3AF&center=true&vCenter=true&width=550&lines=B.Tech+CSE+%40+SNU+Kolkata;I+build+the+parts+users+never+see;currently+deep+in+AI-backend+integration" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tanisha-agarwal-338b65322"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  &nbsp;
-  <a href="mailto:tanisha.agarwal0109@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/tanisha-agarwal-338b65322"><img src="https://img.shields.io/badge/LinkedIn-Connect-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=e5e5e5"/></a>
+  <a href="mailto:tanisha.agarwal0109@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-1a1a1a?style=for-the-badge&logo=gmail&logoColor=e5e5e5"/></a>
 </p>
 
----
+<br/>
 
-```yaml
-name      : Tanisha Agarwal
-role      : Backend Developer + AI Enthusiast
-education : B.Tech CSE — SNU Kolkata, CGPA 9.01
-currently : Building AI-powered backend systems
-learning  : System Design · Advanced ML · Cloud
-fun_fact  : "My code compiles on the first try about as often as I win the lottery"
-```
+## About
 
----
+| | |
+|---|---|
+| 🎓 **Education** | B.Tech CSE, SNU Kolkata — CGPA 9.01 |
+| 🧠 **Focus** | Backend systems that plug into AI |
+| 🌱 **Right now** | Leveling up in system design & cloud |
+| 💬 **Honest truth** | I test in production more than I'd like to admit |
 
-### Stack
+<br/>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-</p>
-
----
-
-### Stats
+## Toolkit
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=tanishacodes19&show_icons=true&count_private=true&include_all_commits=true&hide=stars&hide_border=true&bg_color=00000000&title_color=a35bff&icon_color=a35bff&text_color=c9d1d9&custom_title=Tanisha's+Stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishacodes19&layout=compact&hide_border=true&bg_color=00000000&title_color=a35bff&text_color=c9d1d9&custom_title=Languages"/>
+  <img src="https://img.shields.io/badge/C-2b2b2b?style=flat-square&logo=c&logoColor=e5e5e5"/>
+  <img src="https://img.shields.io/badge/Python-2b2b2b?style=flat-square&logo=python&logoColor=e5e5e5"/>
+  <img src="https://img.shields.io/badge/Java-2b2b2b?style=flat-square&logo=openjdk&logoColor=e5e5e5"/>
+  <img src="https://img.shields.io/badge/JavaScript-2b2b2b?style=flat-square&logo=javascript&logoColor=e5e5e5"/>
+  <img src="https://img.shields.io/badge/HTML5-2b2b2b?style=flat-square&logo=html5&logoColor=e5e5e5"/>
+  <img src="https://img.shields.io/badge/CSS3-2b2b2b?style=flat-square&logo=css3&logoColor=e5e5e5"/>
+  <img src="https://img.shields.io/badge/Git-2b2b2b?style=flat-square&logo=git&logoColor=e5e5e5"/>
 </p>
+
+<br/>
+
+## GitHub Activity
+
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=tanishacodes19&hide_border=true&background=00000000&ring=a35bff&fire=a35bff&currStreakLabel=a35bff&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&stroke=0000&currStreakNum=c9d1d9"/>
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=tanishacodes19&show_icons=true&count_private=true&include_all_commits=true&hide=stars&hide_border=true&bg_color=00000000&title_color=9CA3AF&icon_color=9CA3AF&text_color=6B7280"/>
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishacodes19&layout=compact&hide_border=true&bg_color=00000000&title_color=9CA3AF&text_color=6B7280"/>
 </p>
 
----
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=tanishacodes19&hide_border=true&background=00000000&ring=6B7280&fire=E5E5E5&currStreakLabel=9CA3AF&sideNums=6B7280&sideLabels=6B7280&dates=6B7280&stroke=0000&currStreakNum=E5E5E5"/>
+</p>
 
-### Projects
+<br/>
+
+## Featured Build
 
 <p align="center">
   <a href="https://github.com/tanishacodes19/anchor_backend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanishacodes19&repo=anchor_backend&hide_border=false&border_color=a35bff&bg_color=00000000&title_color=a35bff&text_color=8b949e&icon_color=a35bff&border_radius=10"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanishacodes19&repo=anchor_backend&hide_border=false&border_color=3f3f3f&bg_color=00000000&title_color=e5e5e5&text_color=6B7280&icon_color=9CA3AF&border_radius=10"/>
   </a>
 </p>
 
----
+<br/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=15&pause=2000&color=8b949e&center=true&vCenter=true&width=600&lines=you've+reached+the+bottom+of+my+profile.;still+building.+still+learning.+still+here." alt="footer"/>
-</p>
+<p align="center"><sub>thanks for scrolling this far — go build something.</sub></p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0d0d0d,100:2b1330&height=80&section=footer"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e2e2e,100:0a0a0a&height=100&section=footer"/>
