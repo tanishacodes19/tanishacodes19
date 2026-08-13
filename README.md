@@ -38,25 +38,8 @@ fun_fact  : "My code compiles on the first try about as often as I win the lotte
 
 ---
 
-### Stats
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=tanishacodes19&show_icons=true&count_private=true&include_all_commits=true&hide=stars&hide_border=true&bg_color=00000000&title_color=9CA3AF&icon_color=9CA3AF&text_color=6B7280&custom_title=Tanisha's+Stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishacodes19&layout=compact&hide_border=true&bg_color=00000000&title_color=9CA3AF&text_color=6B7280&custom_title=Languages"/>
-</p>
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=tanishacodes19&hide_border=true&background=00000000&ring=6B7280&fire=E5E5E5&currStreakLabel=9CA3AF&sideNums=6B7280&sideLabels=6B7280&dates=6B7280&stroke=0000&currStreakNum=E5E5E5"/>
-</p>
 
----
-
-### Projects
-
-<p align="center">
-  <a href="https://github.com/tanishacodes19/anchor_backend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanishacodes19&repo=anchor_backend&hide_border=false&border_color=3f3f3f&bg_color=00000000&title_color=e5e5e5&text_color=6B7280&icon_color=9CA3AF&border_radius=10"/>
-  </a>
-</p>
 
 ---
 
