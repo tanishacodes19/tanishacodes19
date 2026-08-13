@@ -36,12 +36,6 @@ fun_fact  : "My code compiles on the first try about as often as I win the lotte
   <img src="https://img.shields.io/badge/Git-2b2b2b?style=flat-square&logo=git&logoColor=e5e5e5"/>
 </p>
 
----
-
-
-
-
----
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=15&pause=2000&color=9CA3AF&center=true&vCenter=true&width=600&lines=you've+reached+the+bottom+of+my+profile.;still+building.+still+learning.+still+here." alt="footer"/>
